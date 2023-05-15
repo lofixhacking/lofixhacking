@@ -1,5 +1,6 @@
 ![MasterHead](https://img.freepik.com/premium-vector/hacker-vector-trendy-banner_36298-492.jpg?w=996)
-<h1 align="center">Hi 👋, I'm Lofi X Hacking</h1>
+<h1 align="center">Hi 👋, I'm Dip Ranjan Sharma</h1>
+<h3 align="center">Founder of Lofi X Hacking</h3>
 <h3 align="center">A passionate Ethical Hacker from India.</h3>
 <img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif">
 
